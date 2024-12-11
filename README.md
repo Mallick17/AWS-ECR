@@ -1,7 +1,7 @@
 # AWS-ECR
 AWS Elastic Container Registry
 # Docker and AWS ECR Integration to push an image to a PRIVATE REPOSITORY(AWS ECS).
-## How to push Docker Image to Amazon Elastic Container Registry to a PRIVATE REPOSITORY(AWS ECS)
+## How to push Docker Image to Amazon Elastic Container Registry <PRIVATE REPOSITORY>(AWS ECS)
 This documentation covers the steps to integrate Docker with AWS Elastic Container Registry (ECR) for storing and pushing container images.
 
 ## 1 Setup and Commands
@@ -62,4 +62,4 @@ docker push 339713104321.dkr.ecr.ap-south-1.amazonaws.com/apache-tomcat:latest
 - Explanation: This command pushes the `apache-tomcat:latest` image to the `apache-tomcat` repository in AWS ECR.
 ---
 # Docker and AWS ECR Integration to push an image to a PUBLIC REPOSITORY(AWS ECS).
-## How to push Docker Image to Amazon Elastic Container Registry to a PUBLIC REPOSITORY(AWS ECS)
+## How to push Docker Image to Amazon Elastic Container Registry <PUBLIC REPOSITORY>(AWS ECS)
