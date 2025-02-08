@@ -1,5 +1,5 @@
 # AWS-ECR
-AWS Elastic Container Registry
+AWS Elastic Container Registry (How to push Docker Image to AWS-ECR "Private & Public ECR")
 ## How to push Docker Image to Amazon Elastic Container Registry "PRIVATE REPOSITORY"(AWS ECS)
 ### Docker and AWS ECR Integration to push an image to a PRIVATE REPOSITORY(AWS ECS).
 This documentation covers the steps to integrate Docker with AWS Elastic Container Registry (ECR) for storing and pushing container images.
